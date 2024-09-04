@@ -95,7 +95,7 @@ Snap of Performance metrics,
 
 # Insights
 
-A single page report was created on Power BI Desktop & it was then published to Power BI Service.
+A three page report was created on Power BI Desktop & it was then published to Power BI Service.
 
 Following inferences can be drawn from the report;
 
