@@ -1,4 +1,4 @@
-# Stock Price Prediction
+# Active Employee and Attrition Report
 
 ## Link to problem dataset:  https://www.kaggle.com/datasets/ravindrasinghrana/employeedataset
 
